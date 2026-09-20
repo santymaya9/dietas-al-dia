@@ -106,7 +106,7 @@ Severidad: **Crítico** (pone en riesgo al paciente o impide validar), **Mayor**
 | 4 | | | | | | |
 | 5 | | | | | | |
 
-**Resultado:** [cuántos cumplen y qué dificultades aparecieron, tras hacer la prueba].
+**Resultado:** Por probar.
 
 ---
 
