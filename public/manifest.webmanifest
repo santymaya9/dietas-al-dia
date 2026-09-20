@@ -1,0 +1,11 @@
+{
+  "name": "Dietas al Día",
+  "short_name": "Dietas al Día",
+  "description": "Apoyo a la decisión clínica nutricional para médicos del Departamento de Nutrición",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3F7F6",
+  "theme_color": "#0B5D50",
+  "lang": "es",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
