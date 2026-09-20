@@ -3,7 +3,7 @@
 **Universidad Pontificia Bolivariana · Ingeniería de Software**
 **Curso:** Ingeniería de Requisitos · **Profesor:** Oscar Eduardo Sánchez García
 **Actividad:** U3A2 Prototipado (Misión 7) · **Estudiante:** Santiago Maya Horta · **Fecha:** 20 de septiembre de 2026
-**Prototipo:** [enlace de Vercel] · **Repositorio:** [enlace de GitHub]
+**Prototipo:** https://dietas-al-dia.vercel.app · **Repositorio:** https://github.com/santymaya9/dietas-al-dia
 
 ---
 
